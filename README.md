@@ -166,10 +166,10 @@
     <div id="page5" class="page">
         <div class="letter-text">
             <p>
-                Thank you Manya for accepting this. Ik that I've made some mistakes in the past 
+                Thank you Manya for accepting this.I want you to know that you are the best thing that could happen to me in my life. You're the reason I could make it this far, and I promise to always be there for you. Ik that I've made some mistakes in the past 
                 but I promise that everything will become better. <br><br>
-                Thank you for being the peace of my life. I request you to be mine for eternity, 
-                And I promise you to make your life the best.
+                Thank you for being the peace of my life. I have a big favour to ask you. If you're free for the next 70 years or so, I want to ask you to be my lover and stay with me forever.
+                I promise you to make your life the best.
             </p>
             <h3>Love,<br>Rajbir Singh</h3>
         </div>
